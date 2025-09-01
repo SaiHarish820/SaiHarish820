@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurram Sai Harish</h1>
-<h3 align="center">I am a Computer Science student with a good foundation in Python and Django full-stack development. With experience in coding and editing, I can deliver high-quality projects that meet your specific needs. In addition to my expertise in Python and Django, I am a beginner in MERN full-stack development and am eager to continue learning and growing my skills in this area. I have participated in hackathons conducted by our university and managed tech events about web development and GitHub.</h3>
+<h3 align="center">I am a Computer Science student with a strong foundation in Python and Django full-stack development. I specialize in building scalable web applications and delivering high-quality projects tailored to specific needs. Alongside Python and Django, I have growing experience in MERN stack development and am continuously expanding my skills in modern web technologies.
+
+I have also worked with UI/UX design and game development using Unity. My experience includes participating in hackathons, where I collaborated on innovative solutions, and organizing tech events focused on web development and GitHub.
+
+Passionate about technology and problem-solving, I enjoy exploring new tools and frameworks to create impactful solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiharish820" alt="saiharish820" /></a> </p>
 
